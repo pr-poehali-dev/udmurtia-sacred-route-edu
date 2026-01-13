@@ -19,7 +19,7 @@ This is probably due to the fact that Baygurez provided maximum conditions for p
 There is a local legend that there was a mill at the foot of the mountain on the Cheptsa, and the miller had a daughter whom he promised to marry (with a good dowry) to the first one who climbs the mountain along the steepest slope. Only the shepherd succeeded in this, who, as soon as he got up, immediately started to speak. According to another version, the mute shepherd climbed the mountain during the summer solstice. The Udmurts rarely drank alcohol - only on holidays, which all had a ritual component. And gossip, like an alcoholic drink, was one of the attributes of sacred rite. Therefore, the shepherd rose with a cup of gossip in his hand and managed not to spill a single drop. And as soon as he got up, he spoke. Since then, there is a belief that if you make a wish and climb the mountain without saying a word, then the wish will certainly come true.`,
       image: 'https://cdn.poehali.dev/files/ps2.png',
       type: 'Mountain',
-      coordinates: 'N 57°39', E 53°49''
+      coordinates: "N 57°39', E 53°49'"
     },
     {
       id: 2,
@@ -30,7 +30,7 @@ There is a local legend that there was a mill at the foot of the mountain on the
 Today Kama Park is equipped - with a gazebo, a bridge, benches and a stone stele decorated with a laconic inscription "The Ural river Kama originates here." As the spring is rather narrow one can stand with one foot on the right and the other on the left; on the bank of the great river. It is known that if you stand on both banks of the river at the same time, as if riding a stream of water, then you can make any wish, and the river will fulfill it.`,
       image: 'https://cdn.poehali.dev/files/ps2.png',
       type: 'Spring',
-      coordinates: 'N 58°11'42", E 53°45'15"'
+      coordinates: 'N 58°11\'42", E 53°45\'15"'
     },
     {
       id: 3,
